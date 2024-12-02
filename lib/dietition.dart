@@ -49,7 +49,7 @@ class Dietition extends StatelessWidget {
                   padding: EdgeInsets.all(18.0),
 
                   decoration: BoxDecoration(
-                    color: Colors.black,
+                    color: Colors.grey,
 
                   ),
 
